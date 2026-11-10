@@ -12,25 +12,25 @@
 
 ## I. Datos Personales JOSEPH DANIEL QUISPE GONZALES
 
-- **Fecha de nacimiento:** 20 de abril 2005[cite: 1]
-- **Nacionalidad:** Peruano[cite: 1]
-- **DNI:** 75006818[cite: 1]
-- **Dirección:** Jr. Mama Ocllo
+- **Fecha de nacimiento:** 02 febrero 2001
+- **Nacionalidad:** Peruano
+- **DNI:** 02458513
+- **Dirección:** Jr. Callao
 - **Distrito:** Juliaca
 - **Provincia:** San Román
-- **Departamento:** Puno[cite: 1]
-- **Correo Electrónico:** josephdquispesgonza@gmail.com[cite: 1]
-- **Teléfono Móvil:** 908729989[cite: 1]
+- **Departamento:** Puno
+- **Correo Electrónico:** josephdqui@gmail.com
+- **Teléfono Móvil:** 988555244
 
 ---
 
 ## II. Formación Académica y Profesional Técnico
 
-*Comenzar por el último grado obtenido*[cite: 1]
+*Comenzar por el último grado obtenido*
 
 | Grado Académico | Especialidad | Fecha Desde / Hasta (Mes/Año) | Centro de Estudio / País | Situación |
 | :--- | :--- | :--- | :--- | :--- |
-| Estudios Avanzados | A.P.S.T.I.<br>Computación Informática | 2024 / 2026[cite: 1] | I.E.S.T.P Santa Lucía[cite: 1] | —[cite: 1] |
+| Estudios Avanzados | A.P.S.T.I.<br>Computación Informática | 2024 / 2026 | I.E.S.T.P Santa Lucía | — |
 
 ---
 
@@ -38,7 +38,7 @@
 
 | N° | Institución | Cargo | Descripción | Inicio | Término | Tiempo en el Cargo | Acreditación |
 | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 1 | INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO DE SANTA LUCIA[cite: 1] | PERSONAL DE APOYO TECNICO[cite: 1] | OFIMATICA[cite: 1] | 03/03/2025[cite: 1] | 31/12/2025[cite: 1] | 10 meses[cite: 1] | CONSTANCIA DE TRABAJO[cite: 1] |
+| 1 | INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO DE SANTA LUCIA | PERSONAL DE APOYO TECNICO | OFIMATICA | 03/03/2025 | 31/12/2025 | 10 meses | CONSTANCIA DE TRABAJO |
 
 ---
 
