@@ -44,9 +44,10 @@
 
 ## Actualizaciones y/o Capacitaciones
 
-*(1) Tipo de Estudio Complementario: Curso de Especialización; Diplomado; Seminario; Taller; Foro; Simposio u Otros.*[cite: 1]
+*(1) Tipo de Estudio Complementario: Curso de Especialización; Diplomado; Seminario; Taller; Foro; Simposio u Otros.*
+
 
 | Tipo | Centro de Estudio / País | Especialidad | Fecha Desde / Hasta (Día/Mes/Año) | Total Horas |
 | :--- | :--- | :--- | :--- | :--- |
-| Curso | I.E.S.T.P Putina[cite: 1] | Ofimática Avanzada[cite: 1] | 04/08/2025 - 26/09/2025[cite: 1] | 90h[cite: 1] |
-| Curso | I.E.S.T.P Putina[cite: 1] | Educación Superior en Computación, Informática y Tecnología[cite: 1] | 30/06/2025 - 17/10/2025[cite: 1] | 200h[cite: 1] |
+| Curso | I.E.S.T.P Putina | Ofimática Avanzada | 04/08/2025 - 26/09/2025 | 90h |
+| Curso | I.E.S.T.P Putina | Educación Superior en Computación, Informática y Tecnología | 30/06/2025 - 17/10/2025 | 200h |
